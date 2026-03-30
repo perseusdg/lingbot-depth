@@ -9,6 +9,7 @@
 📄 **[arXiv](https://arxiv.org/abs/2601.17895)** |
 🌐 **[Project Page](https://technology.robbyant.com/lingbot-depth)** |
 💻 **[Code](https://github.com/robbyant/lingbot-depth)** |
+🤗 **[Data](https://huggingface.co/datasets/robbyant/mdm_depth)** |
 🤗 **[Hugging Face](https://huggingface.co/collections/robbyant/lingbot-depth)** |
 🤖 **[ModelScope](https://www.modelscope.cn/collections/Robbyant/LingBot-Depth)** ｜
 🤖 **[Video](https://www.bilibili.com/video/BV1oa6uBXEyh)**
@@ -28,6 +29,7 @@ Our approach refines raw sensor depth into clean, complete measurements, enablin
 
 ## News
 
+- **[2026.03.31]** Our dataset for masked depth modeling is now public.
 - **[2026.02.15]** Upload LingBot-Depth-v0.5 which fixes the bug in previous version.
 
 ## Artifacts Release
